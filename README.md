@@ -15,4 +15,19 @@ Full-size images available in folder *images*
 
 ANAC, BDAP and ISTAT datasets available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12179651.svg)](https://doi.org/10.5281/zenodo.12179651)
 
+If you use it, please cite:
 
+```
+@article{sd_Nai2024,
+  author = {Nai, Roberto and Sulis, Emilio and Meo, Rosa},
+  year = {2024},
+  title = {ITH: an open database on Italian Tenders 2016--2023},
+  journal = {Scientific Data},
+  volume = {11},
+  number = {1},
+  pages = {1452},
+  issn = {2052-4463},
+  url = {https://doi.org/10.1038/s41597-024-04342-5},
+  doi = {10.1038/s41597-024-04342-5}
+}
+```
